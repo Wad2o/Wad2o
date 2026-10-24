@@ -6,7 +6,7 @@
 
 # Idris Mohamed Akram 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Third-year+university+student;Freelance+Web+Developer;Exploring+Machine+Learning+%26+Agentic+AI" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Freelance+Web+Developer;Exploring+Machine+Learning+%26+Agentic+AI;Third-year+university+student" alt="Animated introduction" />
 
 <br/>
 
