@@ -63,17 +63,7 @@ I enjoy building web applications, figuring out how things work, and turning wha
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" height="48" alt="Clerk" />
 </p>
 
-## 🧭 Where I'm Heading
 
-| 🌐 Web Development | 🧠 Machine Learning | 🤖 Agentic AI |
-| :--- | :--- | :--- |
-| Building complete applications, from interface to database. | Understanding how models learn and applying them to practical problems. | Exploring agents that use tools and carry out useful workflows. |
-
-## ⚡ How I Like to Work
-
-**Understand the problem → build a first version → test it → improve it.**
-
-I like projects that push me to learn something new. Whether I'm refining an interface or connecting a backend, I want to understand the decisions behind the code.
 
 
 
