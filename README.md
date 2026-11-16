@@ -44,25 +44,24 @@ I enjoy building web applications, figuring out how things work, and turning wha
 
 ### 🗄️ Databases & ORM
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="PostgreSQL and Prisma" />
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="48" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" height="48" alt="PostgreSQL and Prisma" />
+</p>
 
 ### 🤖 AI & Agents
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="LangChain" />
+</p>
 
-<br/><br/>
+### 🔧 Tools, Auth & Deployment
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-
-### 🔧 Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Git, GitHub and Vercel" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" height="48" alt="Git, GitHub and Vercel" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" height="48" alt="Clerk" />
+</p>
 
 ## 🧭 Where I'm Heading
 
