@@ -30,13 +30,37 @@ I enjoy building web applications, figuring out how things work, and turning wha
 
 <div align="center">
 
-### Languages
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" alt="Python, C, JavaScript, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS and Tailwind CSS" />
 
-### Web Development & Data
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nextjs,express,tailwind,postgres&theme=dark" alt="Next.js, Express, Tailwind CSS and PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,express&theme=dark" alt="Python and Express" />
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,js&theme=dark" alt="C, Python and JavaScript" />
+
+### 🗄️ Databases & ORM
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="PostgreSQL and Prisma" />
+
+### 🤖 AI & Agents
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+
+### 🔧 Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Git, GitHub and Vercel" />
 
 </div>
 
