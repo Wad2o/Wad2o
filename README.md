@@ -75,17 +75,7 @@ I enjoy building web applications, figuring out how things work, and turning wha
 
 I like projects that push me to learn something new. Whether I'm refining an interface or connecting a backend, I want to understand the decisions behind the code.
 
-<details>
-<summary><b>🔎 A few things I'm curious about</b></summary>
 
-<br/>
-
-- How can AI become a useful part of an everyday application?
-- What makes an interface feel simple and intuitive?
-- When should an AI agent act, and when should it ask?
-- How do you keep an application maintainable as it grows?
-
-</details>
 
 
 
