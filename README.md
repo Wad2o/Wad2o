@@ -87,11 +87,7 @@ I like projects that push me to learn something new. Whether I'm refining an int
 
 </details>
 
-## 🤝 Let's Build Something
 
-Have a web project in mind, or an idea that combines **web development and AI**?
-
-You can explore my work and find my contact details on my portfolio.
 
 <div align="center">
 
